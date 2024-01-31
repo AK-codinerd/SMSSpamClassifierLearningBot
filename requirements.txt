@@ -2,5 +2,4 @@ streamlit
 nltk
 scikit-learn
 pandas
-string
 matplotlib
