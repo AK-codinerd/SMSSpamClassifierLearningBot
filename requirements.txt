@@ -1,6 +1,6 @@
 streamlit
 nltk
-sklearn
+scikit-learn
 pandas
 string
 matplotlib
