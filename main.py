@@ -115,6 +115,7 @@ y_pred2 = mnb.predict(X_test)
 acc_score = accuracy_score(y_test, y_pred2)
 conf_mat = confusion_matrix(y_test, y_pred2)
 prec_score = precision_score(y_test, y_pred2)
+# As mnb has a good precision score and accuracy score than others we are going with mnb
 
 # bnb.fit(X_train, y_train)
 # y_pred3 = bnb.predict(X_test)
